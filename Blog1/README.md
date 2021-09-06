@@ -20,7 +20,7 @@ I tried to encapsulate what the skeleton of this project might look like through
 
 ![](https://github.com/LiyanIbrahim/Capstone/blob/main/Blog1/figma.png)
 
-https://www.figma.com/file/m56MvCeE2l33cg4w4FLI5T/Capstone_1?node-id=0%3A1
+https://www.figma.com/proto/m56MvCeE2l33cg4w4FLI5T/Capstone_1?node-id=1%3A5&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A5
 
 
 <h3>Potential message:</h3> 
