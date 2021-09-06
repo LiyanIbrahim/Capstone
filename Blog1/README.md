@@ -16,8 +16,8 @@ These may include:
   <li>Users interact with the project but also interact with each other</li>
   <li>Users go through a test and this determines what group the user is placed into</li>
   </ul>
-I tried to encapsulate what the skeleton of this project might look like through this experience. 
-[insert figma prototype] 
+I tried to encapsulate what the skeleton of this project might look like through this experience. </br>
+https://www.figma.com/file/m56MvCeE2l33cg4w4FLI5T/Capstone_1?node-id=0%3A1
 
 
 <h3>Potential message:</h3> 
