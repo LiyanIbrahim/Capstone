@@ -27,5 +27,5 @@ https://www.figma.com/proto/m56MvCeE2l33cg4w4FLI5T/Capstone_1?node-id=1%3A5&scal
 
 <h3>Potential message:</h3> 
 While I initially wanted this project to explore the idea of technology for social good /algorithmic biases, I decided to actually shift away from that and explore a rather non-tech topic digitally. Therefore, I want to use digital tools to elevate the art of storytelling (or look into ways that I can use digital tools to tell a story). One topic that predominates my social/contextual awareness is my non solidified identity of being a descendant of refugees. While I really do not want this to be explicit, these are some ways being a Palestinian raised on the internet could be entry points to my story. 
-
+<p> </pr>
 ![](https://github.com/LiyanIbrahim/Capstone/blob/main/Blog1/pic2.png)
