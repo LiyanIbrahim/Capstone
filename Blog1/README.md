@@ -10,8 +10,9 @@ Challenging the notions of how we understand new emerging technology and celebra
 User interaction is a huge contributor to my project as I want it to be immersive and so my prototype also includes different ways the user can interact in the story. 
 These may include: 
 <li>
-<ul>Users being decision-makers
-<ul>Interview process of some sort 
-<ul>Users interact with the project but also interact with each other
-<ul>Users go through a test and this determines what group the user is placed into
+  <ul>Users being decision-makers</ul>
+  <ul>Interview process of some sort </ul>
+  <ul>Users interact with the project but also interact with each other</ul>
+  <ul>Users go through a test and this determines what group the user is placed into</ul>
+  </li>
 
