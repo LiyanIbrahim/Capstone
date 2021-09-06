@@ -15,4 +15,10 @@ These may include:
   <li>Users interact with the project but also interact with each other</li>
   <li>Users go through a test and this determines what group the user is placed into</li>
   </ul>
+I tried to encapsulate what the skeleton of this project might look like through this experience. 
+[insert figma prototype] 
+
+
+<h3>Potential message:</h3> 
+While I initially wanted this project to explore the idea of technology for social good /algorithmic biases, I decided to actually shift away from that and explore a rather non-tech topic digitally. Therefore, I want to use digital tools to elevate the art of storytelling (or look into ways that I can use digital tools to tell a story). One topic that predominates my social/contextual awareness is my non solidified identity of being a descendant of refugees. While I really do not want this to be explicit, these are some ways being a Palestinian raised on the internet could be entry points to my story. 
 
