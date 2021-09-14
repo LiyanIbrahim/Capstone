@@ -1,0 +1,1 @@
+This week was a bit chaotic in terms of ideations and finding a single idea or direction to isolate and work on. I was focusing primarily on figuring out a message and/or a story to work on but I ended up doing multiple things, many of which were influenced and readjusted/thought through after my meeting with Heather (my advisor). 
