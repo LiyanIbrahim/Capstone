@@ -9,3 +9,10 @@ Navigate the Miro Board: https://miro.com/app/board/o9J_lxO8puo=/ </br>
 
 <p> This board explores potential visual aesthetics and ways I can communicate this project. I wanted to explore and look into both text-based experiences as well as visual experiences. When exploring text-based prototypes, I want to pair them with strong sound components that, as mentioned above, I have some ideas to start prototyping soon. The examples I pulled are all interactive in different ways and so the simulation comes from the simplicity and gives a different feeling compared to including visuals. Visual-based prototypes will include animations, interaction and visual arts. The examples I gave are all different but had components that drew me to them. For example, I enjoyed the pixelated feeling and familiarity that SuperMario clouds give and the animated/evolving timeframe with a real, physical document background in Alternative Census.  An idea I’m thinking of is using/altering pixels of certain pre-existing artwork/images that could be relevant. I want my project to have multiple tabs and so after looking into these different types separately, I want to explore ways I can combine them so they look like they are part of the same project/story but are powerful enough to convey different emotions through the different senses. </p>
 
+<p> <b> Going forward:</b> 
+<ul> 
+  <li> I want to start prototyping my sound. </li>
+  <li> Think about how my medium is relevant now and what that means for story production. </li>
+  <li>Look into text adventure games/interactive fiction </li>
+  <li>Further develop my storytelling skills/story: Who’s story do I want to tell? </li> 
+  </ul>
