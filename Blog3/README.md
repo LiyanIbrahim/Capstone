@@ -10,6 +10,7 @@ Things I can do with the text effect:
   <li>User need to find the start button</li> 
   <li>Form a sentence to continue → based on the sentence formed they are assigned characters </li>
   <li>Based on what the press they are assigned a role → other roles are automated </li>
+  </ul>
 
 I am leaning towards the third point because at this point it feels more intuitive but this will also heavily depend on the story. </br>
 
@@ -19,6 +20,6 @@ https://drive.google.com/drive/folders/1K8xGBOTR34MJsT1u7Z7sVCL2kUzUTFGm?usp=sha
 
 Initial texts after repositioning and before resizing: </br>
 
-
+![](https://github.com/LiyanIbrahim/Capstone/blob/main/Blog3/beforeresize.png)
 
 Link to website (has everything after resizing and with hovering effect): </br>
