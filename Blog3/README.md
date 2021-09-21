@@ -22,4 +22,6 @@ Initial texts after repositioning and before resizing: </br>
 
 ![](https://github.com/LiyanIbrahim/Capstone/blob/main/Blog3/beforeresize.png)
 
-Link to website (has everything after resizing and with hovering effect): </br>
+Link to website (has everything after resizing and with hovering effect), I added the html,css files to this repo too: </br>
+
+LiyanIbrahim.github.io/capstonePrototypes/p2.html
