@@ -1,4 +1,4 @@
-BIO: </br>
+<h3>BIO:</h3> </br>
 
 Liyan is a Palestianian/Jordanian interaction designer and digital storyteller based in Abu Dhabi, who studies Interactive Media with a concentration in Computer Science at New York University Abu Dhabi (NYUAD). In the summer of 2021, she obtained a Google Specialization in UX design. 
 
@@ -18,7 +18,7 @@ Along with her personal projects, she worked as a researcher at OpenGulf, a set 
 
 
 
-ARTIST STATEMENT: </br>
+<h3>ARTIST STATEMENT: </h3></br>
 
 We live in this digitized world where people talk more but say less. Growing up with a mainly STEM education, the emphasis on art around me was very limited. I was learning how to write these algorithms and understand how a computer works while simultaneously reading about how these black box technologies are amplifying the inequalities in the world. All while growing up with the internet - and watching interactions become progressively more digital, yet less stimulating. This made me increasingly more interested in looking at how digital literacy changes the way we interact with the technologies that influence the world around us. Discovering the field where art and technology are not mutually exclusive, I started reevaluating art through a different lens. To me, art is fluid and extensive; it’s everywhere, it navigates through societal borders and barriers and communicates ideas and expressions in a way no other medium can. 
 
