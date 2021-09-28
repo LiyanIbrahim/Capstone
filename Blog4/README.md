@@ -1,6 +1,6 @@
 Because I want animations and I’m using a website to host my project, I started learning how to use this javascript library, three.js, that would allow me to do 3D animations. I learned the basics of using it but I also found an ASCII art generator within the p5.js library extension and so I used that to generate different ASCII pictures that could be used in my capstone project in parallel to the original pictures. I wanted to see how it would look if, for any reason, the user had to navigate/glitch between the ascii and the regular. 
 
-Potential [images](https://www.text-image.com/convert/pic2ascii.cgi) I wanted to try out (slightly different variations): 
+Potential images I wanted to try out (slightly different variations): 
 <ol>
   <li>Scenery (variation 1) </li>
   <li>Scenery (variation 2) </li>
@@ -8,7 +8,7 @@ Potential [images](https://www.text-image.com/convert/pic2ascii.cgi) I wanted to
   <li>Text 1 </li>
    <li>Text 2 </li>
    <li>Text 3 </li>
-  [<li>[Web cam] </li>](https://github.com/LiyanIbrahim/Capstone/blob/main/Blog4/webcamASCII.png)
+  <li>[Webcam](https://github.com/LiyanIbrahim/Capstone/blob/main/Blog4/webcamASCII.png) </li>
   </ol>
 I also found part an online generator where I can customize the ascii code produced which I will continue to experiment on. </br>
 
