@@ -8,7 +8,7 @@ Potential images I wanted to try out (slightly different variations):
   <li>Text 1 </li>
    <li>Text 2 </li>
    <li>Text 3 </li>
-  <li>[Web cam](https://github.com/LiyanIbrahim/Capstone/blob/main/Blog4/webcamASCII.png) </li>
+  [<li>[Web cam] </li>](https://github.com/LiyanIbrahim/Capstone/blob/main/Blog4/webcamASCII.png)
   </ol>
 I also found part an online generator where I can customize the ascii code produced which I will continue to experiment on. </br>
 
