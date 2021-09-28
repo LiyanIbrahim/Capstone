@@ -16,3 +16,6 @@ I want my project to be a pick your adventure kind of game, similar to the bande
 </br>
 Here’s a rough draft of some ways I could go about this: 
 ![](https://github.com/LiyanIbrahim/Capstone/blob/main/Blog4/IMG_0022.jpg)
+
+</br> 
+In order to continue effectively, I want to spend the next prototype iterating on my idea and narrowing down the idea and core concept for my story so I can start working on it and the narratives for each choice
