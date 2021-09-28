@@ -5,9 +5,8 @@ Potential images I wanted to try out (slightly different variations):
   <li>Scenery variation [1](https://github.com/LiyanIbrahim/Capstone/blob/main/Blog4/scene1.png) </li>
   <li>Scenery (variation [2](https://github.com/LiyanIbrahim/Capstone/blob/main/Blog4/scene2.png)) </li>
   The text took more time and I still don't like the way they turned out
-  <li>Text 1 </li>
-   <li>Text 2 </li>
-   <li>Text 3 </li>
+  <li>Text [1](https://github.com/LiyanIbrahim/Capstone/blob/main/Blog4/text1.png) </li>
+   <li>Text [2](https://github.com/LiyanIbrahim/Capstone/blob/main/Blog4/text2.png) </li>
   <li>[Webcam](https://github.com/LiyanIbrahim/Capstone/blob/main/Blog4/webcamASCII.png) </li>
   </ol>
 I also found part an online generator where I can customize the ascii code produced which I will continue to experiment on. </br>
