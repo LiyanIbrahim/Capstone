@@ -2,8 +2,8 @@ Because I want animations and I’m using a website to host my project, I starte
 
 Potential images I wanted to try out (slightly different variations): 
 <ol>
-  <li>Scenery (animated) </li>
-  <li>Scenery (not animated) </li>
+  <li>Scenery (variation 1) </li>
+  <li>Scenery (variation 2) </li>
   <li>Text </li>
   <li>Web cam (?) </li>
   </ol>
