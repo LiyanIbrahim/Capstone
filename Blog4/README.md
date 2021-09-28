@@ -2,7 +2,7 @@ Because I want animations and I’m using a website to host my project, I starte
 
 Potential images I wanted to try out (slightly different variations): 
 <ol>
-  <li>Scenery (variation 1) </li>
+  <li>[Scenery(variation 1)](https://github.com/LiyanIbrahim/Capstone/blob/main/Blog4/scene1.png) </li>
   <li>Scenery (variation 2) </li>
   The text took more time and I still don't like the way they turned out
   <li>Text 1 </li>
