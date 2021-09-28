@@ -15,3 +15,4 @@ Idea development:  </br>
 I want my project to be a pick your adventure kind of game, similar to the bandersnatch episode from black mirror. I’m still developing the idea/message that I want to be the core of the project but I can already imagine it not being my own story but drawn from experience and emotions I heavily relate to. I want the decisions to be difficult and thought provoking and so I’m looking into introducing a risk factor or something that would make the decision making process more consequential. 
 </br>
 Here’s a rough draft of some ways I could go about this: 
+![](https://github.com/LiyanIbrahim/Capstone/blob/main/Blog4/IMG_0022.jpg)
