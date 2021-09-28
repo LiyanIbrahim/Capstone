@@ -4,7 +4,10 @@ Potential images I wanted to try out (slightly different variations):
 <ol>
   <li>Scenery (variation 1) </li>
   <li>Scenery (variation 2) </li>
-  <li>Text </li>
+  The text took more time and I still don't like the way they turned out
+  <li>Text 1 </li>
+   <li>Text 2 </li>
+   <li>Text 3 </li>
   <li>Web cam (?) </li>
   </ol>
 I also found part an online generator where I can customize the ascii code produced which I will continue to experiment on. </br>
