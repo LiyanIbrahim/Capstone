@@ -18,4 +18,4 @@ Some notes from class/how they are affecting my project and thought process/thin
 <li>Another prototype I made is purely aesthetic and I do plan on using it and that is using a javascript library to convert an image to ASCII code. I think I want to use that in some rooms ironically because I think technology is very integrated into our world yet the way this js library works feels very dystopian which adds an extra dimension to my project. </li>
   </ol>
 
-
+![](https://github.com/LiyanIbrahim/Capstone/blob/main/Blog1/pic1.png)
