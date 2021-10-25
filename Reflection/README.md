@@ -18,8 +18,13 @@ Some notes from class/how they are affecting my project and thought process/thin
   ![](https://github.com/LiyanIbrahim/Capstone/blob/main/Blog1/figma.png)
   
 <li>In one of my prototypes, I looked at ways an interactive story can be portrayed visually. I was mainly exploring both text-based interactions as well as visuals. This was very useful for me because it felt like I had to pick one which is why I looked into both. However, I’m considering rooms as shown above and I think it would be very stimulating visually if one of the objects was a notebook and you had to go through written memories through text-based interactions amid more visual work. </li> 
+  Prototype:
   
   ![](https://github.com/LiyanIbrahim/Capstone/blob/main/Blog2/Capstone%20(1).jpg)
+  
+  Current Storyboard: 
+  
+  ![](https://github.com/LiyanIbrahim/Capstone/blob/main/Reflection/Screen%20Shot%202021-10-25%20at%207.59.29%20AM.png) 
   
 <li>This is definitely a subtopic but one feedback I got was particularly striking to me and that was “using an invention made by colonizers to liberate ourselves”. I think I want to expand and explore this in (b) reimaging a future of belonging and how this statement affects the way we view the internet and the way we imagine ourselves in relation to that. </li>
 <li>Another prototype I made is purely aesthetic and I do plan on using it and that is using a javascript library to convert an image to ASCII code. I think I want to use that in some rooms ironically because I think technology is very integrated into our world yet the way this js library works feels very dystopian which adds an extra dimension to my project. </li>
