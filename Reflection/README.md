@@ -9,8 +9,9 @@ I want to explore these narratives through objects and memories. The idea of how
 Some notes from class/how they are affecting my project and thought process/things I’ve made:
 <ol>
   <li>Execution: As I mentioned, initially, I had a lot of positive feedback on creating a “choose your own adventure” type scenario. I decided to do, what I think will be an equally immersive/interactive path of exploring objects through memories and rooms as shown:</li>
+  
   ![](https://github.com/LiyanIbrahim/Capstone/blob/main/Reflection/Object%20idea%20ideation%20.jpg)
-  ![](https://github.com/LiyanIbrahim/Capstone/blob/main/Blog1/pic1.png)
+
 <li>One feedback I got is to consider having people start at different points since people inherently have different starting points in life. While I do think this is a good idea and I definitely want to consider it, I think I want to implement that differently since I don’t think I can boil down and quantify someone’s oppression. What I don’t want to create is an illusion of comparing oppressions (oppression Olympics). Therefore, I need to find a way to incorporate and recognize that in a way that is not generalizing or simplify any type of struggle. </li> 
 <li> Following that, the first prototype I made discussed how I wanted to split people into different groups and characters and I might explore something similar maybe in terms of rooms just to add an extra element of interactivity and personalization. I’m not sure yet if I want the placements to be random but I think I will follow a similar way as I prototyped earlier this semester. </li> 
 <li>In one of my prototypes, I looked at ways an interactive story can be portrayed visually. I was mainly exploring both text-based interactions as well as visuals. This was very useful for me because it felt like I had to pick one which is why I looked into both. However, I’m considering rooms as shown above and I think it would be very stimulating visually if one of the objects was a notebook and you had to go through written memories through text-based interactions amid more visual work. </li> 
@@ -18,4 +19,4 @@ Some notes from class/how they are affecting my project and thought process/thin
 <li>Another prototype I made is purely aesthetic and I do plan on using it and that is using a javascript library to convert an image to ASCII code. I think I want to use that in some rooms ironically because I think technology is very integrated into our world yet the way this js library works feels very dystopian which adds an extra dimension to my project. </li>
   </ol>
 
-![](https://github.com/LiyanIbrahim/Capstone/blob/main/Blog1/pic1.png)
+
